@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="750.0" prefWidth="850.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <VBox layoutX="48.0" layoutY="258.0" prefHeight="407.0" prefWidth="751.0">
+         <children>
+            <Text fx:id="applicantName" strokeType="OUTSIDE" strokeWidth="0.0" text="Hi, Name!" wrappingWidth="450.80340576171875">
+               <font>
+                  <Font name="Nirmala UI Bold" size="18.0" />
+               </font>
+            </Text>
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Welcome to the BatStateU-Lipa TNEU Applicant Community!" wrappingWidth="450.80340576171875">
+               <font>
+                  <Font name="Nirmala UI Bold" size="14.0" />
+               </font>
+            </Text>
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="We are excited to have you join our college application and discussion platform. Whether you're here to apply for admission or engage in conversations with fellow applicants, you're part of a supportive community dedicated to helping you navigate the admission process." wrappingWidth="752.8034057617188">
+               <font>
+                  <Font name="Nirmala UI" size="14.0" />
+               </font>
+            </Text>
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Here, you can:" wrappingWidth="752.8034057617188">
+               <font>
+                  <Font name="Nirmala UI" size="14.0" />
+               </font>
+            </Text>
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="   - Explore resources and information about Batangas State University - Lipa (BatStateU-Lipa). " wrappingWidth="752.8034057617188">
+               <font>
+                  <Font name="Nirmala UI" size="14.0" />
+               </font>
+            </Text>
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="   - Connect with prospective students and share experiences." wrappingWidth="752.8034057617188">
+               <font>
+                  <Font name="Nirmala UI" size="14.0" />
+               </font>
+            </Text>
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="   - Get answers to your questions and concerns about the application process." wrappingWidth="752.8034057617188">
+               <font>
+                  <Font name="Nirmala UI" size="14.0" />
+               </font>
+            </Text>
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="   - Stay updated on important deadlines and admission announcements." wrappingWidth="752.8034057617188">
+               <font>
+                  <Font name="Nirmala UI" size="14.0" />
+               </font>
+            </Text>
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="This platform is your space to connect, learn, and grow together with like-minded individuals who share your educational aspirations. We encourage you to be active, ask questions, and participate in discussions. Your journey towards higher education begins here, and we're here to support you every step of the way." wrappingWidth="752.8034057617188">
+               <font>
+                  <Font name="Nirmala UI" size="14.0" />
+               </font>
+            </Text>
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Feel free to introduce yourself and start exploring the wealth of knowledge and connections that await you. We wish you the best of luck in your application journey!" wrappingWidth="752.8034057617188">
+               <font>
+                  <Font name="Nirmala UI" size="14.0" />
+               </font>
+            </Text>
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" />
+            <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Once again, welcome to the BatStateU-Lipa TNEU Applicant Community." wrappingWidth="752.8034057617188">
+               <font>
+                  <Font name="Nirmala UI" size="14.0" />
+               </font>
+            </Text>
+         </children>
+      </VBox>
+      <ImageView fitHeight="273.0" fitWidth="851.0" layoutX="-1.0" layoutY="-2.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../Images/homebanner.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
